@@ -31,10 +31,7 @@ Let's start playing with the data. We will be working according to the following
 *   Data cleaning
 *   Data selection
 *   Clusteing
-
-
 <br> </br>
-
 </head>
 <body>
 
