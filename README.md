@@ -33,30 +33,7 @@ Let's start playing with the data. We will be working according to the following
 *   Clusteing
 
 
-### About the dataset
-
-<h4 align = "center">
-Environment Canada    
-Monthly Values for July - 2015	
-</h4>
-<html>
-<head>
-<style>
-table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-td, th {
-border: 1px solid #dddddd;
-text-align: left;
-padding: 8px;
-}
-
-tr:nth-child(even) {
-background-color: #dddddd;
-} </style>
+<br> </br>
 
 </head>
 <body>
